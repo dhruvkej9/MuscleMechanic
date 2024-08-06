@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Stack, Typography } from '@mui/material';
 import Logo from '../assets/images/navbar-logo-gym(1).png';
-
+//footer
 const Footer = () => (
   <Box mt="80px" bgcolor="#f8f5ff">
     <Stack gap="40px" sx={{ alignItems: 'center' }} flexWrap="wrap" px="40px" pt="24px">
